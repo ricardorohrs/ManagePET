@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
